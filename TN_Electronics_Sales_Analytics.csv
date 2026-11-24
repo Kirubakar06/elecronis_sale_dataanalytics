@@ -1,0 +1,500 @@
+﻿order id,Order_Date,District,Branch,Product_ID,Product_Name,Category,Quantity,Unit_Price,Discount,Total_Amount,Payment_Mode,Customer_Type,Sales_Executive
+ORD1002,13-03-2026,Coimbatore,Coimbatore - Gandhipuram,P012,Microwave Oven,Home Appliances,1,"₹11,500.00",₹230.00,"₹11,270.00",UPI,Wholesale,Priya
+ORD1003,30-04-2026,Tiruppur,Tiruppur - Kumaran Road,P001,Samsung Smartphone,Mobiles,1,"₹18,000.00",₹360.00,"₹17,640.00",Net Banking,Wholesale,Arun Kumar
+ORD1004,03-08-2026,Vellore,Vellore - Katpadi,P012,Microwave Oven,Home Appliances,2,"₹11,500.00","₹2,300.00","₹20,700.00",Credit Card,Corporate,Suresh
+ORD1005,21-03-2026,Chennai,Chennai - T Nagar,P012,Microwave Oven,Home Appliances,1,"₹11,500.00",₹575.00,"₹10,925.00",Credit Card,Corporate,Priya
+ORD1006,16-05-2026,Coimbatore,Coimbatore - RS Puram,P002,Apple Smartphone,Mobiles,1,"₹65,000.00","₹3,250.00","₹61,750.00",UPI,Wholesale,Nithya
+ORD1007,31-05-2026,Vellore,Vellore - Katpadi,P015,Smart Watch,Accessories,1,"₹4,500.00",₹450.00,"₹4,050.00",Net Banking,Corporate,Divya
+ORD1008,10-02-2026,Coimbatore,Coimbatore - Gandhipuram,P011,Bluetooth Headphones,Accessories,1,"₹2,500.00",₹125.00,"₹2,375.00",Credit Card,Retail,Vijay
+ORD1009,09-07-2026,Thanjavur,Thanjavur - Old Bus Stand,P011,Bluetooth Headphones,Accessories,3,"₹2,500.00",₹150.00,"₹7,350.00",Debit Card,Retail,Suresh
+ORD1010,25-08-2026,Coimbatore,Coimbatore - Gandhipuram,P009,Voltas Air Conditioner 1.5T,Home Appliances,2,"₹39,000.00","₹1,560.00","₹76,440.00",Cash,Corporate,Divya
+ORD1011,25-07-2026,Salem,Salem - Five Roads,P004,Dell Laptop,Computers,3,"₹58,000.00","₹8,700.00","₹1,65,300.00",Debit Card,Retail,Divya
+ORD1012,23-08-2026,Tiruppur,Tiruppur - Kumaran Road,P004,Dell Laptop,Computers,2,"₹58,000.00","₹8,120.00","₹1,07,880.00",Credit Card,Corporate,Karthik
+ORD1013,24-07-2026,Tiruchirappalli,Trichy - Cantonment,P012,Microwave Oven,Home Appliances,2,"₹11,500.00","₹2,300.00","₹20,700.00",Debit Card,Retail,Karthik
+ORD1014,20-03-2026,Vellore,Vellore - Gandhi Road,P002,Apple Smartphone,Mobiles,3,"₹65,000.00",₹0.00,"₹1,95,000.00",Credit Card,Wholesale,Vijay
+ORD1015,28-09-2026,Tiruppur,Tiruppur - Avinashi Road,P007,LG Refrigerator 260L,Home Appliances,1,"₹28,000.00","₹1,960.00","₹26,040.00",Debit Card,Wholesale,Arun Kumar
+ORD1016,31-05-2026,Coimbatore,Coimbatore - RS Puram,P013,Wi-Fi Router,Accessories,2,"₹3,200.00",₹0.00,"₹6,400.00",Cash,Retail,Nithya
+ORD1017,24-02-2026,Chennai,Chennai - Velachery,P009,Voltas Air Conditioner 1.5T,Home Appliances,3,"₹39,000.00","₹11,700.00","₹1,05,300.00",Debit Card,Wholesale,Divya
+ORD1018,01-01-2026,Madurai,Madurai - Periyar,P013,Wi-Fi Router,Accessories,1,"₹3,200.00",₹320.00,"₹2,880.00",Net Banking,Corporate,Nithya
+ORD1019,03-05-2026,Chennai,Chennai - T Nagar,P015,Smart Watch,Accessories,1,"₹4,500.00",₹225.00,"₹4,275.00",UPI,Retail,Priya
+ORD1020,06-03-2026,Coimbatore,Coimbatore - RS Puram,P014,Tablet 10 inch,Computers,1,"₹22,000.00","₹2,200.00","₹19,800.00",Credit Card,Wholesale,Nithya
+ORD1021,05-08-2026,Vellore,Vellore - Katpadi,P005,Samsung LED TV 43 inch,Televisions,2,"₹32,000.00","₹6,400.00","₹57,600.00",Credit Card,Wholesale,Divya
+ORD1022,22-09-2026,Thanjavur,Thanjavur - Old Bus Stand,P011,Bluetooth Headphones,Accessories,2,"₹2,500.00",₹350.00,"₹4,650.00",Cash,Retail,Divya
+ORD1023,28-04-2026,Tiruchirappalli,Trichy - Thillai Nagar,P006,LG LED TV 55 inch,Televisions,1,"₹48,000.00","₹4,800.00","₹43,200.00",Net Banking,Retail,Arun Kumar
+ORD1024,19-06-2026,Coimbatore,Coimbatore - Gandhipuram,P004,Dell Laptop,Computers,1,"₹58,000.00",₹0.00,"₹58,000.00",UPI,Wholesale,Divya
+ORD1025,20-10-2026,Thanjavur,Thanjavur - Old Bus Stand,P004,Dell Laptop,Computers,2,"₹58,000.00","₹13,920.00","₹1,02,080.00",Net Banking,Corporate,Divya
+ORD1026,09-08-2026,Erode,Erode - Brough Road,P004,Dell Laptop,Computers,1,"₹58,000.00","₹6,960.00","₹51,040.00",Debit Card,Corporate,Vijay
+ORD1027,20-02-2026,Erode,Erode - Perundurai Road,P011,Bluetooth Headphones,Accessories,2,"₹2,500.00",₹600.00,"₹4,400.00",UPI,Corporate,Meena
+ORD1028,13-03-2026,Coimbatore,Coimbatore - Gandhipuram,P004,Dell Laptop,Computers,1,"₹58,000.00","₹4,060.00","₹53,940.00",Cash,Retail,Suresh
+ORD1029,09-10-2026,Erode,Erode - Perundurai Road,P014,Tablet 10 inch,Computers,4,"₹22,000.00","₹6,160.00","₹81,840.00",UPI,Retail,Arun Kumar
+ORD1030,20-04-2026,Coimbatore,Coimbatore - Gandhipuram,P003,HP Laptop,Computers,1,"₹52,000.00","₹3,640.00","₹48,360.00",Cash,Retail,Karthik
+ORD1031,27-05-2026,Tirunelveli,Tirunelveli - Junction,P007,LG Refrigerator 260L,Home Appliances,1,"₹28,000.00","₹1,960.00","₹26,040.00",Cash,Wholesale,Nithya
+ORD1032,24-10-2026,Madurai,Madurai - Anna Nagar,P005,Samsung LED TV 43 inch,Televisions,1,"₹32,000.00",₹0.00,"₹32,000.00",Net Banking,Retail,Meena
+ORD1033,22-03-2026,Chennai,Chennai - T Nagar,P010,Canon Printer,Accessories,2,"₹12,500.00","₹2,500.00","₹22,500.00",UPI,Wholesale,Priya
+ORD1034,26-07-2026,Madurai,Madurai - Anna Nagar,P010,Canon Printer,Accessories,1,"₹12,500.00",₹250.00,"₹12,250.00",UPI,Wholesale,Divya
+ORD1035,26-10-2026,Tiruppur,Tiruppur - Avinashi Road,P010,Canon Printer,Accessories,1,"₹12,500.00","₹1,500.00","₹11,000.00",Net Banking,Wholesale,Meena
+ORD1036,16-05-2026,Thanjavur,Thanjavur - Medical College Road,P011,Bluetooth Headphones,Accessories,2,"₹2,500.00",₹100.00,"₹4,900.00",Cash,Retail,Suresh
+ORD1037,05-01-2026,Erode,Erode - Brough Road,P015,Smart Watch,Accessories,3,"₹4,500.00",₹0.00,"₹13,500.00",Cash,Wholesale,Priya
+ORD1038,05-02-2026,Coimbatore,Coimbatore - Gandhipuram,P009,Voltas Air Conditioner 1.5T,Home Appliances,1,"₹39,000.00","₹1,950.00","₹37,050.00",Credit Card,Corporate,Suresh
+ORD1039,28-09-2026,Madurai,Madurai - Periyar,P014,Tablet 10 inch,Computers,2,"₹22,000.00","₹2,200.00","₹41,800.00",UPI,Wholesale,Suresh
+ORD1040,11-10-2026,Coimbatore,Coimbatore - Gandhipuram,P005,Samsung LED TV 43 inch,Televisions,1,"₹32,000.00",₹0.00,"₹32,000.00",Credit Card,Corporate,Suresh
+ORD1041,16-05-2026,Tiruppur,Tiruppur - Avinashi Road,P012,Microwave Oven,Home Appliances,1,"₹11,500.00","₹1,380.00","₹10,120.00",Net Banking,Corporate,Suresh
+ORD1042,23-01-2026,Chennai,Chennai - T Nagar,P011,Bluetooth Headphones,Accessories,1,"₹2,500.00",₹125.00,"₹2,375.00",UPI,Corporate,Karthik
+ORD1043,07-08-2026,Thanjavur,Thanjavur - Medical College Road,P012,Microwave Oven,Home Appliances,1,"₹11,500.00","₹1,380.00","₹10,120.00",Net Banking,Retail,Priya
+ORD1044,26-10-2026,Coimbatore,Coimbatore - Gandhipuram,P009,Voltas Air Conditioner 1.5T,Home Appliances,1,"₹39,000.00","₹1,950.00","₹37,050.00",Net Banking,Retail,Vijay
+ORD1045,03-07-2026,Madurai,Madurai - Anna Nagar,P005,Samsung LED TV 43 inch,Televisions,1,"₹32,000.00",₹0.00,"₹32,000.00",Credit Card,Wholesale,Divya
+ORD1046,21-03-2026,Coimbatore,Coimbatore - RS Puram,P013,Wi-Fi Router,Accessories,2,"₹3,200.00",₹448.00,"₹5,952.00",Credit Card,Retail,Karthik
+ORD1047,30-07-2026,Tirunelveli,Tirunelveli - Junction,P003,HP Laptop,Computers,2,"₹52,000.00","₹5,200.00","₹98,800.00",Credit Card,Corporate,Karthik
+ORD1048,24-04-2026,Coimbatore,Coimbatore - RS Puram,P014,Tablet 10 inch,Computers,1,"₹22,000.00","₹1,540.00","₹20,460.00",Credit Card,Corporate,Meena
+ORD1049,24-07-2026,Thanjavur,Thanjavur - Medical College Road,P004,Dell Laptop,Computers,1,"₹58,000.00","₹1,160.00","₹56,840.00",Debit Card,Corporate,Priya
+ORD1050,02-10-2026,Thanjavur,Thanjavur - Old Bus Stand,P011,Bluetooth Headphones,Accessories,2,"₹2,500.00",₹600.00,"₹4,400.00",Debit Card,Retail,Priya
+ORD1051,20-01-2026,Thanjavur,Thanjavur - Medical College Road,P010,Canon Printer,Accessories,4,"₹12,500.00","₹2,500.00","₹47,500.00",UPI,Wholesale,Vijay
+ORD1052,01-03-2026,Salem,Salem - Fairlands,P007,LG Refrigerator 260L,Home Appliances,2,"₹28,000.00","₹5,600.00","₹50,400.00",Cash,Wholesale,Divya
+ORD1053,03-10-2026,Thanjavur,Thanjavur - Medical College Road,P012,Microwave Oven,Home Appliances,1,"₹11,500.00","₹1,150.00","₹10,350.00",Credit Card,Corporate,Vijay
+ORD1054,03-06-2026,Coimbatore,Coimbatore - RS Puram,P010,Canon Printer,Accessories,1,"₹12,500.00",₹0.00,"₹12,500.00",Net Banking,Corporate,Vijay
+ORD1055,09-04-2026,Salem,Salem - Fairlands,P012,Microwave Oven,Home Appliances,1,"₹11,500.00",₹230.00,"₹11,270.00",Cash,Wholesale,Vijay
+ORD1056,05-06-2026,Madurai,Madurai - Periyar,P007,LG Refrigerator 260L,Home Appliances,2,"₹28,000.00",₹0.00,"₹56,000.00",Debit Card,Retail,Vijay
+ORD1057,20-04-2026,Tiruppur,Tiruppur - Kumaran Road,P008,Samsung Washing Machine,Home Appliances,1,"₹24,000.00","₹2,880.00","₹21,120.00",Net Banking,Corporate,Karthik
+ORD1058,21-06-2026,Coimbatore,Coimbatore - RS Puram,P009,Voltas Air Conditioner 1.5T,Home Appliances,2,"₹39,000.00","₹7,800.00","₹70,200.00",UPI,Retail,Suresh
+ORD1059,01-09-2026,Tiruchirappalli,Trichy - Thillai Nagar,P003,HP Laptop,Computers,1,"₹52,000.00","₹1,040.00","₹50,960.00",Net Banking,Retail,Nithya
+ORD1060,24-07-2026,Tirunelveli,Tirunelveli - Junction,P012,Microwave Oven,Home Appliances,2,"₹11,500.00","₹1,610.00","₹21,390.00",Credit Card,Retail,Arun Kumar
+ORD1061,23-09-2026,Coimbatore,Coimbatore - RS Puram,P004,Dell Laptop,Computers,1,"₹58,000.00","₹6,960.00","₹51,040.00",Cash,Retail,Divya
+ORD1062,29-09-2026,Coimbatore,Coimbatore - RS Puram,P003,HP Laptop,Computers,3,"₹52,000.00","₹18,720.00","₹1,37,280.00",Net Banking,Wholesale,Meena
+ORD1063,23-03-2026,Erode,Erode - Brough Road,P014,Tablet 10 inch,Computers,4,"₹22,000.00","₹6,160.00","₹81,840.00",Cash,Corporate,Suresh
+ORD1064,03-05-2026,Tiruchirappalli,Trichy - Cantonment,P013,Wi-Fi Router,Accessories,3,"₹3,200.00",₹672.00,"₹8,928.00",Debit Card,Corporate,Priya
+ORD1065,11-02-2026,Thanjavur,Thanjavur - Medical College Road,P005,Samsung LED TV 43 inch,Televisions,1,"₹32,000.00","₹3,200.00","₹28,800.00",Credit Card,Retail,Divya
+ORD1066,28-07-2026,Tirunelveli,Tirunelveli - Junction,P012,Microwave Oven,Home Appliances,1,"₹11,500.00",₹805.00,"₹10,695.00",Debit Card,Wholesale,Nithya
+ORD1067,27-10-2026,Tirunelveli,Tirunelveli - Junction,P004,Dell Laptop,Computers,3,"₹58,000.00","₹12,180.00","₹1,61,820.00",UPI,Wholesale,Vijay
+ORD1068,03-08-2026,Erode,Erode - Perundurai Road,P006,LG LED TV 55 inch,Televisions,1,"₹48,000.00","₹3,360.00","₹44,640.00",Net Banking,Wholesale,Divya
+ORD1069,19-07-2026,Erode,Erode - Perundurai Road,P005,Samsung LED TV 43 inch,Televisions,1,"₹32,000.00",₹0.00,"₹32,000.00",Debit Card,Wholesale,Vijay
+ORD1070,01-10-2026,Madurai,Madurai - Periyar,P015,Smart Watch,Accessories,1,"₹4,500.00",₹450.00,"₹4,050.00",UPI,Corporate,Arun Kumar
+ORD1071,26-01-2026,Coimbatore,Coimbatore - RS Puram,P003,HP Laptop,Computers,3,"₹52,000.00","₹3,120.00","₹1,52,880.00",Debit Card,Corporate,Meena
+ORD1072,23-05-2026,Tiruchirappalli,Trichy - Cantonment,P006,LG LED TV 55 inch,Televisions,1,"₹48,000.00","₹3,360.00","₹44,640.00",Cash,Corporate,Priya
+ORD1073,25-04-2026,Erode,Erode - Perundurai Road,P012,Microwave Oven,Home Appliances,2,"₹11,500.00","₹1,150.00","₹21,850.00",UPI,Wholesale,Arun Kumar
+ORD1074,20-03-2026,Chennai,Chennai - T Nagar,P004,Dell Laptop,Computers,3,"₹58,000.00","₹17,400.00","₹1,56,600.00",Credit Card,Retail,Nithya
+ORD1075,27-03-2026,Coimbatore,Coimbatore - Gandhipuram,P008,Samsung Washing Machine,Home Appliances,2,"₹24,000.00","₹2,400.00","₹45,600.00",Net Banking,Wholesale,Priya
+ORD1076,22-10-2026,Madurai,Madurai - Periyar,P002,Apple Smartphone,Mobiles,2,"₹65,000.00","₹6,500.00","₹1,23,500.00",Cash,Corporate,Divya
+ORD1077,03-03-2026,Coimbatore,Coimbatore - Gandhipuram,P002,Apple Smartphone,Mobiles,2,"₹65,000.00","₹6,500.00","₹1,23,500.00",Net Banking,Retail,Meena
+ORD1078,24-06-2026,Vellore,Vellore - Gandhi Road,P011,Bluetooth Headphones,Accessories,1,"₹2,500.00",₹250.00,"₹2,250.00",UPI,Corporate,Nithya
+ORD1079,20-03-2026,Coimbatore,Coimbatore - RS Puram,P006,LG LED TV 55 inch,Televisions,2,"₹48,000.00","₹6,720.00","₹89,280.00",Cash,Retail,Suresh
+ORD1080,18-05-2026,Tiruppur,Tiruppur - Kumaran Road,P008,Samsung Washing Machine,Home Appliances,1,"₹24,000.00","₹2,880.00","₹21,120.00",Debit Card,Retail,Priya
+ORD1081,14-07-2026,Thanjavur,Thanjavur - Old Bus Stand,P004,Dell Laptop,Computers,3,"₹58,000.00","₹17,400.00","₹1,56,600.00",Debit Card,Retail,Nithya
+ORD1082,24-06-2026,Salem,Salem - Five Roads,P008,Samsung Washing Machine,Home Appliances,1,"₹24,000.00","₹1,200.00","₹22,800.00",Debit Card,Wholesale,Suresh
+ORD1083,04-05-2026,Vellore,Vellore - Katpadi,P009,Voltas Air Conditioner 1.5T,Home Appliances,4,"₹39,000.00",₹0.00,"₹1,56,000.00",Cash,Corporate,Divya
+ORD1084,31-05-2026,Erode,Erode - Brough Road,P008,Samsung Washing Machine,Home Appliances,3,"₹24,000.00",₹0.00,"₹72,000.00",Credit Card,Corporate,Divya
+ORD1085,06-08-2026,Thanjavur,Thanjavur - Old Bus Stand,P008,Samsung Washing Machine,Home Appliances,2,"₹24,000.00","₹2,400.00","₹45,600.00",Net Banking,Corporate,Meena
+ORD1086,09-04-2026,Erode,Erode - Brough Road,P005,Samsung LED TV 43 inch,Televisions,1,"₹32,000.00",₹0.00,"₹32,000.00",Debit Card,Retail,Karthik
+ORD1087,26-09-2026,Tiruchirappalli,Trichy - Thillai Nagar,P012,Microwave Oven,Home Appliances,2,"₹11,500.00","₹2,760.00","₹20,240.00",Net Banking,Corporate,Priya
+ORD1088,08-01-2026,Tiruchirappalli,Trichy - Cantonment,P004,Dell Laptop,Computers,1,"₹58,000.00","₹2,900.00","₹55,100.00",Net Banking,Retail,Suresh
+ORD1089,09-09-2026,Chennai,Chennai - T Nagar,P009,Voltas Air Conditioner 1.5T,Home Appliances,1,"₹39,000.00",₹780.00,"₹38,220.00",UPI,Retail,Suresh
+ORD1090,10-05-2026,Erode,Erode - Brough Road,P008,Samsung Washing Machine,Home Appliances,1,"₹24,000.00",₹0.00,"₹24,000.00",Cash,Retail,Priya
+ORD1091,28-01-2026,Tirunelveli,Tirunelveli - Palayamkottai,P002,Apple Smartphone,Mobiles,2,"₹65,000.00","₹15,600.00","₹1,14,400.00",Credit Card,Retail,Suresh
+ORD1092,26-04-2026,Coimbatore,Coimbatore - Gandhipuram,P002,Apple Smartphone,Mobiles,2,"₹65,000.00","₹9,100.00","₹1,20,900.00",Net Banking,Corporate,Nithya
+ORD1093,06-06-2026,Erode,Erode - Brough Road,P014,Tablet 10 inch,Computers,2,"₹22,000.00","₹3,080.00","₹40,920.00",Net Banking,Wholesale,Arun Kumar
+ORD1094,16-05-2026,Tiruppur,Tiruppur - Avinashi Road,P013,Wi-Fi Router,Accessories,1,"₹3,200.00",₹64.00,"₹3,136.00",UPI,Retail,Divya
+ORD1095,29-08-2026,Madurai,Madurai - Anna Nagar,P003,HP Laptop,Computers,1,"₹52,000.00","₹3,640.00","₹48,360.00",Debit Card,Retail,Divya
+ORD1096,30-04-2026,Thanjavur,Thanjavur - Old Bus Stand,P012,Microwave Oven,Home Appliances,3,"₹11,500.00",₹0.00,"₹34,500.00",Debit Card,Wholesale,Divya
+ORD1097,17-05-2026,Tirunelveli,Tirunelveli - Junction,P009,Voltas Air Conditioner 1.5T,Home Appliances,1,"₹39,000.00",₹780.00,"₹38,220.00",Credit Card,Retail,Arun Kumar
+ORD1098,28-05-2026,Madurai,Madurai - Periyar,P010,Canon Printer,Accessories,2,"₹12,500.00","₹2,500.00","₹22,500.00",Cash,Retail,Nithya
+ORD1099,13-08-2026,Thanjavur,Thanjavur - Old Bus Stand,P005,Samsung LED TV 43 inch,Televisions,2,"₹32,000.00","₹4,480.00","₹59,520.00",UPI,Wholesale,Arun Kumar
+ORD1100,28-04-2026,Tirunelveli,Tirunelveli - Palayamkottai,P010,Canon Printer,Accessories,1,"₹12,500.00",₹0.00,"₹12,500.00",Net Banking,Wholesale,Arun Kumar
+ORD1101,23-09-2026,Thanjavur,Thanjavur - Medical College Road,P013,Wi-Fi Router,Accessories,3,"₹3,200.00",₹672.00,"₹8,928.00",Cash,Corporate,Karthik
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,

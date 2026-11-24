@@ -1,0 +1,101 @@
+﻿Order_ID,Order_Date,District,Branch,Product_ID,Product_Name,Category,Quantity,Unit_Price,Discount,Total_Amount,Payment_Mode,Customer_Type,Sales_Executive
+ORD1002,2026-03-13,Coimbatore,Coimbatore - Gandhipuram,P012,Microwave Oven,Home Appliances,1,11500.0,230.0,11270.0,UPI,Wholesale,Priya
+ORD1003,2026-04-30,Tiruppur,Tiruppur - Kumaran Road,P001,Samsung Smartphone,Mobiles,1,18000.0,360.0,17640.0,Net Banking,Wholesale,Arun Kumar
+ORD1004,2026-08-03,Vellore,Vellore - Katpadi,P012,Microwave Oven,Home Appliances,2,11500.0,2300.0,20700.0,Credit Card,Corporate,Suresh
+ORD1005,2026-03-21,Chennai,Chennai - T Nagar,P012,Microwave Oven,Home Appliances,1,11500.0,575.0,10925.0,Credit Card,Corporate,Priya
+ORD1006,2026-05-16,Coimbatore,Coimbatore - RS Puram,P002,Apple Smartphone,Mobiles,1,65000.0,3250.0,61750.0,UPI,Wholesale,Nithya
+ORD1007,2026-05-31,Vellore,Vellore - Katpadi,P015,Smart Watch,Accessories,1,4500.0,450.0,4050.0,Net Banking,Corporate,Divya
+ORD1008,2026-02-10,Coimbatore,Coimbatore - Gandhipuram,P011,Bluetooth Headphones,Accessories,1,2500.0,125.0,2375.0,Credit Card,Retail,Vijay
+ORD1009,2026-07-09,Thanjavur,Thanjavur - Old Bus Stand,P011,Bluetooth Headphones,Accessories,3,2500.0,150.0,7350.0,Debit Card,Retail,Suresh
+ORD1010,2026-08-25,Coimbatore,Coimbatore - Gandhipuram,P009,Voltas Air Conditioner 1.5T,Home Appliances,2,39000.0,1560.0,76440.0,Cash,Corporate,Divya
+ORD1011,2026-07-25,Salem,Salem - Five Roads,P004,Dell Laptop,Computers,3,58000.0,8700.0,165300.0,Debit Card,Retail,Divya
+ORD1012,2026-08-23,Tiruppur,Tiruppur - Kumaran Road,P004,Dell Laptop,Computers,2,58000.0,8120.0,107880.0,Credit Card,Corporate,Karthik
+ORD1013,2026-07-24,Tiruchirappalli,Trichy - Cantonment,P012,Microwave Oven,Home Appliances,2,11500.0,2300.0,20700.0,Debit Card,Retail,Karthik
+ORD1014,2026-03-20,Vellore,Vellore - Gandhi Road,P002,Apple Smartphone,Mobiles,3,65000.0,0.0,195000.0,Credit Card,Wholesale,Vijay
+ORD1015,2026-09-28,Tiruppur,Tiruppur - Avinashi Road,P007,LG Refrigerator 260L,Home Appliances,1,28000.0,1960.0,26040.0,Debit Card,Wholesale,Arun Kumar
+ORD1016,2026-05-31,Coimbatore,Coimbatore - RS Puram,P013,Wi-Fi Router,Accessories,2,3200.0,0.0,6400.0,Cash,Retail,Nithya
+ORD1017,2026-02-24,Chennai,Chennai - Velachery,P009,Voltas Air Conditioner 1.5T,Home Appliances,3,39000.0,11700.0,105300.0,Debit Card,Wholesale,Divya
+ORD1018,2026-01-01,Madurai,Madurai - Periyar,P013,Wi-Fi Router,Accessories,1,3200.0,320.0,2880.0,Net Banking,Corporate,Nithya
+ORD1019,2026-05-03,Chennai,Chennai - T Nagar,P015,Smart Watch,Accessories,1,4500.0,225.0,4275.0,UPI,Retail,Priya
+ORD1020,2026-03-06,Coimbatore,Coimbatore - RS Puram,P014,Tablet 10 inch,Computers,1,22000.0,2200.0,19800.0,Credit Card,Wholesale,Nithya
+ORD1021,2026-08-05,Vellore,Vellore - Katpadi,P005,Samsung LED TV 43 inch,Televisions,2,32000.0,6400.0,57600.0,Credit Card,Wholesale,Divya
+ORD1022,2026-09-22,Thanjavur,Thanjavur - Old Bus Stand,P011,Bluetooth Headphones,Accessories,2,2500.0,350.0,4650.0,Cash,Retail,Divya
+ORD1023,2026-04-28,Tiruchirappalli,Trichy - Thillai Nagar,P006,LG LED TV 55 inch,Televisions,1,48000.0,4800.0,43200.0,Net Banking,Retail,Arun Kumar
+ORD1024,2026-06-19,Coimbatore,Coimbatore - Gandhipuram,P004,Dell Laptop,Computers,1,58000.0,0.0,58000.0,UPI,Wholesale,Divya
+ORD1025,2026-10-20,Thanjavur,Thanjavur - Old Bus Stand,P004,Dell Laptop,Computers,2,58000.0,13920.0,102080.0,Net Banking,Corporate,Divya
+ORD1026,2026-08-09,Erode,Erode - Brough Road,P004,Dell Laptop,Computers,1,58000.0,6960.0,51040.0,Debit Card,Corporate,Vijay
+ORD1027,2026-02-20,Erode,Erode - Perundurai Road,P011,Bluetooth Headphones,Accessories,2,2500.0,600.0,4400.0,UPI,Corporate,Meena
+ORD1028,2026-03-13,Coimbatore,Coimbatore - Gandhipuram,P004,Dell Laptop,Computers,1,58000.0,4060.0,53940.0,Cash,Retail,Suresh
+ORD1029,2026-10-09,Erode,Erode - Perundurai Road,P014,Tablet 10 inch,Computers,4,22000.0,6160.0,81840.0,UPI,Retail,Arun Kumar
+ORD1030,2026-04-20,Coimbatore,Coimbatore - Gandhipuram,P003,HP Laptop,Computers,1,52000.0,3640.0,48360.0,Cash,Retail,Karthik
+ORD1031,2026-05-27,Tirunelveli,Tirunelveli - Junction,P007,LG Refrigerator 260L,Home Appliances,1,28000.0,1960.0,26040.0,Cash,Wholesale,Nithya
+ORD1032,2026-10-24,Madurai,Madurai - Anna Nagar,P005,Samsung LED TV 43 inch,Televisions,1,32000.0,0.0,32000.0,Net Banking,Retail,Meena
+ORD1033,2026-03-22,Chennai,Chennai - T Nagar,P010,Canon Printer,Accessories,2,12500.0,2500.0,22500.0,UPI,Wholesale,Priya
+ORD1034,2026-07-26,Madurai,Madurai - Anna Nagar,P010,Canon Printer,Accessories,1,12500.0,250.0,12250.0,UPI,Wholesale,Divya
+ORD1035,2026-10-26,Tiruppur,Tiruppur - Avinashi Road,P010,Canon Printer,Accessories,1,12500.0,1500.0,11000.0,Net Banking,Wholesale,Meena
+ORD1036,2026-05-16,Thanjavur,Thanjavur - Medical College Road,P011,Bluetooth Headphones,Accessories,2,2500.0,100.0,4900.0,Cash,Retail,Suresh
+ORD1037,2026-01-05,Erode,Erode - Brough Road,P015,Smart Watch,Accessories,3,4500.0,0.0,13500.0,Cash,Wholesale,Priya
+ORD1038,2026-02-05,Coimbatore,Coimbatore - Gandhipuram,P009,Voltas Air Conditioner 1.5T,Home Appliances,1,39000.0,1950.0,37050.0,Credit Card,Corporate,Suresh
+ORD1039,2026-09-28,Madurai,Madurai - Periyar,P014,Tablet 10 inch,Computers,2,22000.0,2200.0,41800.0,UPI,Wholesale,Suresh
+ORD1040,2026-10-11,Coimbatore,Coimbatore - Gandhipuram,P005,Samsung LED TV 43 inch,Televisions,1,32000.0,0.0,32000.0,Credit Card,Corporate,Suresh
+ORD1041,2026-05-16,Tiruppur,Tiruppur - Avinashi Road,P012,Microwave Oven,Home Appliances,1,11500.0,1380.0,10120.0,Net Banking,Corporate,Suresh
+ORD1042,2026-01-23,Chennai,Chennai - T Nagar,P011,Bluetooth Headphones,Accessories,1,2500.0,125.0,2375.0,UPI,Corporate,Karthik
+ORD1043,2026-08-07,Thanjavur,Thanjavur - Medical College Road,P012,Microwave Oven,Home Appliances,1,11500.0,1380.0,10120.0,Net Banking,Retail,Priya
+ORD1044,2026-10-26,Coimbatore,Coimbatore - Gandhipuram,P009,Voltas Air Conditioner 1.5T,Home Appliances,1,39000.0,1950.0,37050.0,Net Banking,Retail,Vijay
+ORD1045,2026-07-03,Madurai,Madurai - Anna Nagar,P005,Samsung LED TV 43 inch,Televisions,1,32000.0,0.0,32000.0,Credit Card,Wholesale,Divya
+ORD1046,2026-03-21,Coimbatore,Coimbatore - RS Puram,P013,Wi-Fi Router,Accessories,2,3200.0,448.0,5952.0,Credit Card,Retail,Karthik
+ORD1047,2026-07-30,Tirunelveli,Tirunelveli - Junction,P003,HP Laptop,Computers,2,52000.0,5200.0,98800.0,Credit Card,Corporate,Karthik
+ORD1048,2026-04-24,Coimbatore,Coimbatore - RS Puram,P014,Tablet 10 inch,Computers,1,22000.0,1540.0,20460.0,Credit Card,Corporate,Meena
+ORD1049,2026-07-24,Thanjavur,Thanjavur - Medical College Road,P004,Dell Laptop,Computers,1,58000.0,1160.0,56840.0,Debit Card,Corporate,Priya
+ORD1050,2026-10-02,Thanjavur,Thanjavur - Old Bus Stand,P011,Bluetooth Headphones,Accessories,2,2500.0,600.0,4400.0,Debit Card,Retail,Priya
+ORD1051,2026-01-20,Thanjavur,Thanjavur - Medical College Road,P010,Canon Printer,Accessories,4,12500.0,2500.0,47500.0,UPI,Wholesale,Vijay
+ORD1052,2026-03-01,Salem,Salem - Fairlands,P007,LG Refrigerator 260L,Home Appliances,2,28000.0,5600.0,50400.0,Cash,Wholesale,Divya
+ORD1053,2026-10-03,Thanjavur,Thanjavur - Medical College Road,P012,Microwave Oven,Home Appliances,1,11500.0,1150.0,10350.0,Credit Card,Corporate,Vijay
+ORD1054,2026-06-03,Coimbatore,Coimbatore - RS Puram,P010,Canon Printer,Accessories,1,12500.0,0.0,12500.0,Net Banking,Corporate,Vijay
+ORD1055,2026-04-09,Salem,Salem - Fairlands,P012,Microwave Oven,Home Appliances,1,11500.0,230.0,11270.0,Cash,Wholesale,Vijay
+ORD1056,2026-06-05,Madurai,Madurai - Periyar,P007,LG Refrigerator 260L,Home Appliances,2,28000.0,0.0,56000.0,Debit Card,Retail,Vijay
+ORD1057,2026-04-20,Tiruppur,Tiruppur - Kumaran Road,P008,Samsung Washing Machine,Home Appliances,1,24000.0,2880.0,21120.0,Net Banking,Corporate,Karthik
+ORD1058,2026-06-21,Coimbatore,Coimbatore - RS Puram,P009,Voltas Air Conditioner 1.5T,Home Appliances,2,39000.0,7800.0,70200.0,UPI,Retail,Suresh
+ORD1059,2026-09-01,Tiruchirappalli,Trichy - Thillai Nagar,P003,HP Laptop,Computers,1,52000.0,1040.0,50960.0,Net Banking,Retail,Nithya
+ORD1060,2026-07-24,Tirunelveli,Tirunelveli - Junction,P012,Microwave Oven,Home Appliances,2,11500.0,1610.0,21390.0,Credit Card,Retail,Arun Kumar
+ORD1061,2026-09-23,Coimbatore,Coimbatore - RS Puram,P004,Dell Laptop,Computers,1,58000.0,6960.0,51040.0,Cash,Retail,Divya
+ORD1062,2026-09-29,Coimbatore,Coimbatore - RS Puram,P003,HP Laptop,Computers,3,52000.0,18720.0,137280.0,Net Banking,Wholesale,Meena
+ORD1063,2026-03-23,Erode,Erode - Brough Road,P014,Tablet 10 inch,Computers,4,22000.0,6160.0,81840.0,Cash,Corporate,Suresh
+ORD1064,2026-05-03,Tiruchirappalli,Trichy - Cantonment,P013,Wi-Fi Router,Accessories,3,3200.0,672.0,8928.0,Debit Card,Corporate,Priya
+ORD1065,2026-02-11,Thanjavur,Thanjavur - Medical College Road,P005,Samsung LED TV 43 inch,Televisions,1,32000.0,3200.0,28800.0,Credit Card,Retail,Divya
+ORD1066,2026-07-28,Tirunelveli,Tirunelveli - Junction,P012,Microwave Oven,Home Appliances,1,11500.0,805.0,10695.0,Debit Card,Wholesale,Nithya
+ORD1067,2026-10-27,Tirunelveli,Tirunelveli - Junction,P004,Dell Laptop,Computers,3,58000.0,12180.0,161820.0,UPI,Wholesale,Vijay
+ORD1068,2026-08-03,Erode,Erode - Perundurai Road,P006,LG LED TV 55 inch,Televisions,1,48000.0,3360.0,44640.0,Net Banking,Wholesale,Divya
+ORD1069,2026-07-19,Erode,Erode - Perundurai Road,P005,Samsung LED TV 43 inch,Televisions,1,32000.0,0.0,32000.0,Debit Card,Wholesale,Vijay
+ORD1070,2026-10-01,Madurai,Madurai - Periyar,P015,Smart Watch,Accessories,1,4500.0,450.0,4050.0,UPI,Corporate,Arun Kumar
+ORD1071,2026-01-26,Coimbatore,Coimbatore - RS Puram,P003,HP Laptop,Computers,3,52000.0,3120.0,152880.0,Debit Card,Corporate,Meena
+ORD1072,2026-05-23,Tiruchirappalli,Trichy - Cantonment,P006,LG LED TV 55 inch,Televisions,1,48000.0,3360.0,44640.0,Cash,Corporate,Priya
+ORD1073,2026-04-25,Erode,Erode - Perundurai Road,P012,Microwave Oven,Home Appliances,2,11500.0,1150.0,21850.0,UPI,Wholesale,Arun Kumar
+ORD1074,2026-03-20,Chennai,Chennai - T Nagar,P004,Dell Laptop,Computers,3,58000.0,17400.0,156600.0,Credit Card,Retail,Nithya
+ORD1075,2026-03-27,Coimbatore,Coimbatore - Gandhipuram,P008,Samsung Washing Machine,Home Appliances,2,24000.0,2400.0,45600.0,Net Banking,Wholesale,Priya
+ORD1076,2026-10-22,Madurai,Madurai - Periyar,P002,Apple Smartphone,Mobiles,2,65000.0,6500.0,123500.0,Cash,Corporate,Divya
+ORD1077,2026-03-03,Coimbatore,Coimbatore - Gandhipuram,P002,Apple Smartphone,Mobiles,2,65000.0,6500.0,123500.0,Net Banking,Retail,Meena
+ORD1078,2026-06-24,Vellore,Vellore - Gandhi Road,P011,Bluetooth Headphones,Accessories,1,2500.0,250.0,2250.0,UPI,Corporate,Nithya
+ORD1079,2026-03-20,Coimbatore,Coimbatore - RS Puram,P006,LG LED TV 55 inch,Televisions,2,48000.0,6720.0,89280.0,Cash,Retail,Suresh
+ORD1080,2026-05-18,Tiruppur,Tiruppur - Kumaran Road,P008,Samsung Washing Machine,Home Appliances,1,24000.0,2880.0,21120.0,Debit Card,Retail,Priya
+ORD1081,2026-07-14,Thanjavur,Thanjavur - Old Bus Stand,P004,Dell Laptop,Computers,3,58000.0,17400.0,156600.0,Debit Card,Retail,Nithya
+ORD1082,2026-06-24,Salem,Salem - Five Roads,P008,Samsung Washing Machine,Home Appliances,1,24000.0,1200.0,22800.0,Debit Card,Wholesale,Suresh
+ORD1083,2026-05-04,Vellore,Vellore - Katpadi,P009,Voltas Air Conditioner 1.5T,Home Appliances,4,39000.0,0.0,156000.0,Cash,Corporate,Divya
+ORD1084,2026-05-31,Erode,Erode - Brough Road,P008,Samsung Washing Machine,Home Appliances,3,24000.0,0.0,72000.0,Credit Card,Corporate,Divya
+ORD1085,2026-08-06,Thanjavur,Thanjavur - Old Bus Stand,P008,Samsung Washing Machine,Home Appliances,2,24000.0,2400.0,45600.0,Net Banking,Corporate,Meena
+ORD1086,2026-04-09,Erode,Erode - Brough Road,P005,Samsung LED TV 43 inch,Televisions,1,32000.0,0.0,32000.0,Debit Card,Retail,Karthik
+ORD1087,2026-09-26,Tiruchirappalli,Trichy - Thillai Nagar,P012,Microwave Oven,Home Appliances,2,11500.0,2760.0,20240.0,Net Banking,Corporate,Priya
+ORD1088,2026-01-08,Tiruchirappalli,Trichy - Cantonment,P004,Dell Laptop,Computers,1,58000.0,2900.0,55100.0,Net Banking,Retail,Suresh
+ORD1089,2026-09-09,Chennai,Chennai - T Nagar,P009,Voltas Air Conditioner 1.5T,Home Appliances,1,39000.0,780.0,38220.0,UPI,Retail,Suresh
+ORD1090,2026-05-10,Erode,Erode - Brough Road,P008,Samsung Washing Machine,Home Appliances,1,24000.0,0.0,24000.0,Cash,Retail,Priya
+ORD1091,2026-01-28,Tirunelveli,Tirunelveli - Palayamkottai,P002,Apple Smartphone,Mobiles,2,65000.0,15600.0,114400.0,Credit Card,Retail,Suresh
+ORD1092,2026-04-26,Coimbatore,Coimbatore - Gandhipuram,P002,Apple Smartphone,Mobiles,2,65000.0,9100.0,120900.0,Net Banking,Corporate,Nithya
+ORD1093,2026-06-06,Erode,Erode - Brough Road,P014,Tablet 10 inch,Computers,2,22000.0,3080.0,40920.0,Net Banking,Wholesale,Arun Kumar
+ORD1094,2026-05-16,Tiruppur,Tiruppur - Avinashi Road,P013,Wi-Fi Router,Accessories,1,3200.0,64.0,3136.0,UPI,Retail,Divya
+ORD1095,2026-08-29,Madurai,Madurai - Anna Nagar,P003,HP Laptop,Computers,1,52000.0,3640.0,48360.0,Debit Card,Retail,Divya
+ORD1096,2026-04-30,Thanjavur,Thanjavur - Old Bus Stand,P012,Microwave Oven,Home Appliances,3,11500.0,0.0,34500.0,Debit Card,Wholesale,Divya
+ORD1097,2026-05-17,Tirunelveli,Tirunelveli - Junction,P009,Voltas Air Conditioner 1.5T,Home Appliances,1,39000.0,780.0,38220.0,Credit Card,Retail,Arun Kumar
+ORD1098,2026-05-28,Madurai,Madurai - Periyar,P010,Canon Printer,Accessories,2,12500.0,2500.0,22500.0,Cash,Retail,Nithya
+ORD1099,2026-08-13,Thanjavur,Thanjavur - Old Bus Stand,P005,Samsung LED TV 43 inch,Televisions,2,32000.0,4480.0,59520.0,UPI,Wholesale,Arun Kumar
+ORD1100,2026-04-28,Tirunelveli,Tirunelveli - Palayamkottai,P010,Canon Printer,Accessories,1,12500.0,0.0,12500.0,Net Banking,Wholesale,Arun Kumar
+ORD1101,2026-09-23,Thanjavur,Thanjavur - Medical College Road,P013,Wi-Fi Router,Accessories,3,3200.0,672.0,8928.0,Cash,Corporate,Karthik
